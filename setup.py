@@ -22,8 +22,8 @@ setup(
     ],
     # Substitute <github_account> with the name of your GitHub account
     url='https://github.com/jonathanshuai/titanic_datascience',
-    author='Filippo Bovo',  # Substitute your name
-    author_email='filippo@satalia.com',  # Substitute your email
+    author='Jonathan Shuai',  # Substitute your name
+    author_email='jshuai@ucsd.edu',  # Substitute your email
     license='MIT',
     packages=['titanic'],
     install_requires=[
